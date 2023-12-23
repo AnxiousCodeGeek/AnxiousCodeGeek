@@ -15,10 +15,12 @@ Hey there! 👋 I'm AnxiousCodeGeek, a passionate beginner in the vast world of 
     - VS Code 🖥️
 
 ## Get in Touch 📬
-Let's connect! I'd love to hear your thoughts, collaborate on projects, or simply chat about code.
+Let's connect! I'd love to hear your thoughts, collaborate on projects, or simply chat about code.=
+    
     📧 Email: anxiouscodegeek@zohomail.com
-    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+    
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
     
 Happy Coding! 🚀✨
 Thanks for stopping by. Let's code, learn, and build awesome things together! 🌟
