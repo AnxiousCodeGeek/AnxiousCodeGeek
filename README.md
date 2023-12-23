@@ -5,7 +5,8 @@ Hey there! 👋 I'm AnxiousCodeGeek, a passionate beginner in the vast world of 
     🌱 Currently exploring the wonders of Python and diving into the exciting universe of programming.
     🚀 Striving to learn, grow, and contribute to the open-source community.
     👩‍💻 Eager to connect with fellow coders, share experiences, and embark on this coding journey together!
-##Skillset
+    
+## Skillset
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,arduino)](https://skillicons.dev)
 
 ## My Toolbox 🧰
@@ -14,10 +15,10 @@ Hey there! 👋 I'm AnxiousCodeGeek, a passionate beginner in the vast world of 
     - VS Code 🖥️
 
 ## Get in Touch 📬
-    Let's connect! I'd love to hear your thoughts, collaborate on projects, or simply chat about code.
-    📧 Email: anxiouscodegeek@zohomail.com
-    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) @nxiouscodegeek
-    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) fatima-saud-997606161
+Let's connect! I'd love to hear your thoughts, collaborate on projects, or simply chat about code.
+📧 Email: anxiouscodegeek@zohomail.com
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) @nxiouscodegeek
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) fatima-saud-997606161
     
 Happy Coding! 🚀✨
 Thanks for stopping by. Let's code, learn, and build awesome things together! 🌟
