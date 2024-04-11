@@ -1,6 +1,8 @@
 # Welcome to AnxiousCodeGeek's GitHub! 🚀
 
-Hey! 👋 This is Fatima, the AnxiousCodeGeek, I'm a passionate learner in the vast world of coding and all things Python, and eager to connect with fellow coders, share experiences, and embark on this coding journey together! <span style="font-size:1.5em;">🐍✨</span>
+Hey! 👋 This is Fatima, the AnxiousCodeGeek, I'm a passionate learner in the vast world of coding.  I am also a Data enthusiast diving into and exploring the world of data. I am also a web designer and developer. I am eager to connect with fellow coders, share experiences, and embark on this coding journey together! <span style="font-size:1.5em;">🐍✨</span>
+
+## Connect with me
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/fatima-saud-997606161/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +21,7 @@ Hey! 👋 This is Fatima, the AnxiousCodeGeek, I'm a passionate learner in the v
 ## Toolkit 🧰
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,py,html,linux,remix,solidity,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,linux,vscode,anaconda,sklearn,py,html,solidity,visualstudio,c##" />
   </a>
 </p>
     
