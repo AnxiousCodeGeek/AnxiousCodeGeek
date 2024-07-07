@@ -1,6 +1,4 @@
-# Welcome to AnxiousCodeGeek's GitHub! 🚀
-
-Hey! 👋 This is Fatima, the AnxiousCodeGeek, I'm a passionate learner in the vast world of coding.  I am also a Data enthusiast diving into and exploring the world of data. I am also a web designer and developer. I am eager to connect with fellow coders, share experiences, and embark on this coding journey together! <span style="font-size:1.5em;">🐍✨</span>
+I am a passionate data enthusiast currently contributing to the innovative projects at the NCAI Smart City Lab located in NED University. My journey involves diving deep into the realms of Machine Learning, Natural Language Processing, and Audio Classification. With a relentless curiosity and dedication to mastering these domains, I am constantly learning and exploring new techniques and methodologies. I thrive on challenges and am always open to new opportunities for growth and collaboration.
 
 ## Connect with me
 <div id="badges" align="center">
