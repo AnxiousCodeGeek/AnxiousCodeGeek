@@ -1,4 +1,6 @@
-I am a passionate data enthusiast currently contributing to the innovative projects at the NCAI Smart City Lab located in NED University. My journey involves diving deep into the realms of Machine Learning, Natural Language Processing, and Audio Classification. With a relentless curiosity and dedication to mastering these domains, I am constantly learning and exploring new techniques and methodologies. I thrive on challenges and am always open to new opportunities for growth and collaboration.
+
+I am a passionate data enthusiast and engineer currently contributing to cutting-edge projects at the NCAI Smart City Lab at NED University as Research Assistant. My expertise spans across Machine Learning, Natural Language Processing, Audio Classification, and Autonomous Systems, with a focus on self-driving vehicles, object detection, and advanced analytics. I'm actively exploring generative AI, real-time data processing, and vision-based technologies to solve real-world challenges. I thrive on learning, overcoming complex obstacles, and collaborating on innovative solutions that push technological boundaries. Always eager for new opportunities to grow, innovate, and contribute to impactful projects.
+
 
 ## Connect with me
 <div id="badges" align="center">
