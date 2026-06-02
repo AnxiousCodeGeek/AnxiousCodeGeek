@@ -1,5 +1,5 @@
 
-I am a passionate Computer Vision and AI engineer currently contributing to cutting-edge projects at the NCAI Smart City Lab at NED University as Research Assistant. My expertise spans across Machine Learning, Natural Language Processing, Audio Classification, and Autonomous Systems, with a focus on self-driving vehicles, object detection, and advanced analytics. I'm actively exploring generative AI, real-time data processing, and vision-based technologies to solve real-world challenges. I thrive on learning, overcoming complex obstacles, and collaborating on innovative solutions that push technological boundaries. Always eager for new opportunities to grow, innovate, and contribute to impactful projects.
+A Research Assistant at the National Center of Artificial Intelligence: Smart City Lab, NED University, specializing in Deep Learning, Computer Vision, and Autonomous Vehicles. My work involves developing and optimizing AI-driven solutions for research and industrial applications. With expertise in implementing practical algorithms and deploying efficient systems, I focus on delivering impactful and measurable results through technology-driven innovation.
 
 
 ## Connect with me
